@@ -2,6 +2,7 @@ git clone
 cd "para-clase"
 git status
 git commit -m
+git commit -m "nuevos comandos"
 git remote
 git Branch
 git push origin main
